@@ -13,6 +13,23 @@
 </p>
 
 ---
+##  Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/mohamed-ibikeni" target="_blank" title="LinkedIn">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="32" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:mohammedibikeni@gmail.com" target="_blank" title="Email">
+    <img src="https://skillicons.dev/icons?i=gmail" height="32" alt="Email"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://leetcode.com/u/kbiom09/" target="_blank" title="LeetCode">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="32" width="42" alt="LeetCode"/>
+  </a>
+</p>
+
+---
 ### Languages and Tools
 
 <img align="left" width="30px" style="padding-right 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />    
